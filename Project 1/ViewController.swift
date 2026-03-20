@@ -44,7 +44,7 @@ class ViewController: UIViewController {
         majorLabel.text = "Creative Media - Game Design"
         aboutMeLabel.text = " Fun Facts About Me"
         
-        funfactsBlurb.text = "I am a Creative Media student at UHWO. I am currently studying game design. I have two guinea pigs named Peaches and Barley. I also like to crochet!"
+        funfactsBlurb.text = "I am a Creative Media student at UHWO. I am currently studying game design. I have two guinea pigs named Peaches and Barley. I also like to crochet plushies!"
        
         
         
